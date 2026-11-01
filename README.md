@@ -1,11 +1,11 @@
-# qs-hub
-Steam .lua & .manifest hub
+# State of Decay 2
+App ID: 495420
 
 **Download .zip file:** 
-`https://github.com/qwcors/qs-hub/archive/refs/heads/<app_id>.zip`
+`https://github.com/qwcors/qs-hub/archive/refs/heads/495420.zip`
 
 **Download .lua file:** 
-`https://raw.githubusercontent.com/qwcors/qs-hub/<app_id>/<app_id>.lua`
+`https://raw.githubusercontent.com/qwcors/qs-hub/495420/495420.lua`
 
 **Download .manifest file:** 
-`https://raw.githubusercontent.com/qwcors/qs-hub/<app_id>/<depot_id>_<manifest_id>.manifest`
+`https://raw.githubusercontent.com/qwcors/qs-hub/495420/<depot_id>_<manifest_id>.manifest`
