@@ -1,5 +1,5 @@
 # Codename Gordon
-92
+App ID: 92
 
 **Download .zip file:** 
 `https://github.com/qwcors/qs-hub/archive/refs/heads/92.zip`
@@ -8,4 +8,4 @@
 `https://raw.githubusercontent.com/qwcors/qs-hub/92/92.lua`
 
 **Download .manifest file:** 
-`https://raw.githubusercontent.com/qwcors/qs-hub/92/92_1019163440010118460.manifest`
+`https://raw.githubusercontent.com/qwcors/qs-hub/92/<depot_id>_<manifest_id>.manifest`
